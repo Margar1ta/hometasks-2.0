@@ -1,1 +1,7 @@
-Задание 3 - https://codepen.io/Margar1ta/pen/NpJOZK
+
+
+
+
+Задание 3 (Метод крамера) - https://codepen.io/Margar1ta/pen/NpJOZK
+Тестирование уравнений (Рубежный контроль 21-04-2017 #2) - https://jsfiddle.net/Margar1ta/q5pgm41w/
+
