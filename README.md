@@ -6,4 +6,6 @@
 
 Тестирование уравнений (Рубежный контроль 21-04-2017 #2) - https://jsfiddle.net/Margar1ta/q5pgm41w/
 
+Корзина - https://codepen.io/Margar1ta/pen/WjzjNQ
+
 Скринкаст по установке Joomla на Docker - https://youtu.be/UtLzDBCipYI
