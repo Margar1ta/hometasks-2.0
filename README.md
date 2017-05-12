@@ -14,6 +14,7 @@ SCORM пакет - http://koddr.xyz/moodle/mod/scorm/view.php?id=30
 
 
 Презентации:
+
     Задание 1 - https://goo.gl/fHHYQK
     
     Задание 2 - goo.gl/mln0us
