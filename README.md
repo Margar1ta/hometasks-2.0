@@ -8,6 +8,8 @@
 
 Корзина - https://codepen.io/Margar1ta/pen/WjzjNQ
 
+SCORM пакет - http://koddr.xyz/moodle/mod/scorm/view.php?id=30
+
 Скринкаст по установке Joomla на Docker - https://youtu.be/UtLzDBCipYI
 
 
