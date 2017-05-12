@@ -13,6 +13,9 @@
 
 Презентации:
     Задание 1 - https://goo.gl/fHHYQK
+    
     Задание 2 - goo.gl/mln0us
+    
     Задание 3 (Метод крамера) - https://codepen.io/Margar1ta/pen/NpJOZK
-    Задание 4 - 
+    
+    Задание 4 - goo.gl/GjSq2P
